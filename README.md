@@ -7,5 +7,5 @@ Goldreich, D., & Tong, J. (2013). Prediction, Postdiction, and Perceptual Length
 
 The aim is to implement R code and reproduce some of the analyses and figures from the article with the goal in mind to make the models more accessible and applicable for data analysis in the free [R programming language](https://www.r-project.org/).
 
-Read the detailed documentation here: [https://xaverfuchs.github.io/bayesception/](https://xaverfuchs.github.io/bayesception/){:target="_blank"}
+Read the detailed documentation here: [https://xaverfuchs.github.io/bayesception/](https://xaverfuchs.github.io/bayesception/)
 
