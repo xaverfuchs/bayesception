@@ -25,3 +25,4 @@ the-faster-the-stimulation-the-stronger-is-the-length-contraction
 the-further-the-travelled-distance-the-stronger-the-length-contraction
 the-higher-the-precision-the-weaker-the-length-contraction
 the-stronger-the-low-velocity-prior-the-stronger-the-length-contraction
+formula-for-the-likelihood-distribution
